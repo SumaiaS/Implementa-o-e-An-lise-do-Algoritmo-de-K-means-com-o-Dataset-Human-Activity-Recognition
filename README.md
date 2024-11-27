@@ -1,0 +1,1 @@
+# Implementa-o-e-An-lise-do-Algoritmo-de-K-means-com-o-Dataset-Human-Activity-Recognition
